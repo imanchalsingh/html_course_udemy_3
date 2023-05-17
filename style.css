@@ -1,0 +1,223 @@
+/* This is the #CSS code link with html. */
+* {
+  font-family: sans-serif;
+}
+
+/* This is the icons. */
+.scienceicon {
+  width: 25px;
+}
+.smileicon {
+  width: 25px;
+}
+.cursoricon {
+  width: 25px;
+}
+
+/* This is header part in html code. */
+header {
+  display: flex;
+}
+h1 {
+  color: rgb(11, 11, 172);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.firstheading {
+  margin-top: 100px;
+  margin-left: 70px;
+  width: 450px;
+}
+.firstpara {
+  line-height: 1.5;
+}
+.ShopLink {
+  background-color: rgb(12, 147, 59);
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+  margin-left: 50px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  height: 30px;
+  width: 150px;
+}
+.firstpicture {
+  padding-left: 300px;
+  padding-top: 25px;
+}
+
+/* This is main part in html code. */
+main {
+  display: flex;
+}
+.Secheading {
+  padding-left: 50px;
+  width: 300px;
+}
+.Thirdheading {
+  padding-left: 120px;
+  width: 300px;
+}
+.Forthheading {
+  padding-left: 120px;
+  width: 300px;
+}
+
+/* This is aside part. */
+aside {
+  border-radius: 15px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  background-color: rgb(12, 147, 59);
+  display: flex;
+}
+.Secpicture {
+  padding-top: 30px;
+}
+.Fifthheading {
+  padding-top: 70px;
+  padding-left: 90px;
+  width: 700px;
+}
+
+/* This the artical part. */
+/* ----------------------------------------- */
+artical {
+  display: flex;
+}
+img {
+  border-radius: 5px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+/* This is for footer's div. */
+.footerFirstDiv {
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  box-shadow: 1px 1px 1px 1px rgb(129, 119, 119);
+  margin-left: 30px;
+}
+.footerSecDiv {
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  box-shadow: 1px 1px 1px 1px rgb(129, 119, 119);
+  margin-left: 100px;
+}
+.footerThirdDiv {
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  box-shadow: 1px 1px 1px 1px rgb(129, 119, 119);
+  margin-left: 100px;
+}
+
+/* This is for footer's heading. */
+.FooterFirstHeading {
+  width: 150px;
+  line-height: 2;
+}
+.FooterSecHeading {
+  width: 150px;
+  line-height: 2.5;
+}
+.FooterThirdHeading {
+  width: 150px;
+  line-height: 2;
+}
+
+/* This is for cartlink class. */
+.FirstCartLink {
+  margin-left: 140px;
+  margin-top: 13px;
+}
+.SecCartLink {
+  margin-left: 200px;
+  margin-top: 15px;
+}
+.ThirdCartLink {
+  margin-left: 200px;
+  margin-top: 13px;
+}
+
+/* This is for button of add to cart. */
+.FirstAddToCart {
+  display: flex;
+}
+.SecAddToCart {
+  display: flex;
+}
+.ThirdAddToCart {
+  display: flex;
+}
+button {
+  font-weight: bolder;
+  background-color: rgb(12, 147, 59);
+  text-align: center;
+  margin-left: 100px;
+  height: 30px;
+  width: 150px;
+}
+
+/* This is for buttons class. */
+.firstbutton {
+  margin-left: 170px;
+  cursor: pointer;
+}
+.secbutton {
+  margin-left: 210px;
+  cursor: pointer;
+}
+.thirdbutton {
+  margin-left: 220px;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* This is the price class. */
+.FirstPrice {
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.SecPrice {
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ThirdPrice {
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* ----------------------------------------- */
+
+/* This is lastparagraph in code of html */
+.LastPara {
+  font-weight: bold;
+  cursor: pointer;
+  height: 20px;
+  width: 300px;
+  background-color: cornflowerblue;
+  border: 3px solid rgb(46, 107, 220);
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+.LastPara:hover {
+  background-color: rgb(30, 30, 253);
+  color: white;
+  border: 3px solid blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
